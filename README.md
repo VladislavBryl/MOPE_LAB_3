@@ -1,2 +1,2 @@
 # MOPE_LAB_3
-https://user-images.githubusercontent.com/54996000/111492122-159c7380-8745-11eb-9cf1-83fdba861bc3.jpg
+![Ц](https://user-images.githubusercontent.com/54996000/111492065-0b7a7500-8745-11eb-85b4-2be0870f160c.jpg)
