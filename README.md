@@ -9,3 +9,6 @@
 Screenshots of the program:
 
 ![222](https://user-images.githubusercontent.com/54996000/111492122-159c7380-8745-11eb-9cf1-83fdba861bc3.jpg)
+
+
+![Снимок экрана 2021-03-30 220726](https://user-images.githubusercontent.com/54996000/113042879-629c3300-91a4-11eb-9d5f-52e5f5ec7567.jpg)
