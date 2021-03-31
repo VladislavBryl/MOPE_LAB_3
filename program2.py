@@ -101,8 +101,8 @@ def fisher_criteria():
     fp = s2_ad / s2_b
     ft = 4.5
 
-x_min = [-25, 25, 25]
-x_max = [-5, 45, 30]
+x_min = [-15, 10, -25]
+x_max = [45, 50, -20]
 y_min = 200 + average(x_min)
 y_max = 200 + average(x_max)
 x0 = [1, 1, 1, 1]
